@@ -81,9 +81,6 @@
 
 <!-- LEGAL -->
 
-# 赞助（备注：图标）
-
-
 # 声明
 (Almost) All product names, trademarks and registered trademarks in the images in this repository, are property of their respective owners. All images in this repository are used by the users of the Dashboard Icons project for identification purposes only.
 
